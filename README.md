@@ -1,4 +1,4 @@
-[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ，英文版本[摸我](https://github.com/PhilJay/MPAndroidChart/wiki)
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 英文版本[点这里](https://github.com/PhilJay/MPAndroidChart/wiki)
 
 # 目录
 
